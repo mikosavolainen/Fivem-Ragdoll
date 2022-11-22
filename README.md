@@ -1,3 +1,3 @@
 # Fivem-Ragdoll
-Five m ragdoll by Miksa
-Key pind is 303 is U
+Fivem ragdoll by Miksa
+Key pind is U
